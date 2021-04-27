@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Quiz-Expert</string>
+    <string name="app_logo">app_logo</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="doesn_t_have_an_account">Doesn\'t have an account?</string>
+    <string name="search">Search</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="invitations">Invitations</string>
+    <string name="friends">Friends</string>
+    <string name="notifications">Notifications</string>
+    <string name="user">User</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="find_category">Find Category</string>
+    <string name="quiz_logo">Quiz logo</string>
 </resources>

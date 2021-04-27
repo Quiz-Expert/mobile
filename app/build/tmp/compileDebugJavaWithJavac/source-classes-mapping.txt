@@ -1,0 +1,10 @@
+com/example/quiz_expert/databinding/ActivityMainBinding.java
+ com.example.quiz_expert.databinding.ActivityMainBinding
+com/example/quiz_expert/BuildConfig.java
+ com.example.quiz_expert.BuildConfig
+com/example/quiz_expert/databinding/ActivityHomeBinding.java
+ com.example.quiz_expert.databinding.ActivityHomeBinding
+com/example/quiz_expert/databinding/ActivitySignUpBinding.java
+ com.example.quiz_expert.databinding.ActivitySignUpBinding
+com/example/quiz_expert/databinding/HeaderBinding.java
+ com.example.quiz_expert.databinding.HeaderBinding
